@@ -1,6 +1,6 @@
 # Kepler-3b: Tesla Coil 
 
-Group Members: Mae, Patrick, Amina, Chris, Javi, Alex, Diana
+Group Members: Mae, Patrick, Amina, Chris, Javi, Alex, Diana  <br />
 Advisor: Dr. Aly
 
 
